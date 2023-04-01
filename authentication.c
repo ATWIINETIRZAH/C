@@ -3,7 +3,7 @@
 
 int main() {
     char username[20];
-    char password[20];
+    char password[15];
     int authentication = 0; //track authentication status
     
     // prompt user for username and password
